@@ -212,7 +212,7 @@ PANELS = [
      "NEW YORK & TOKYO", (93, 109, 126), "markets"),
 ]
 
-TICKER = ("ALSO TODAY: Kenya's last Ebola patient goes home  \u2022  "
+TICKER = ("ALSO TODAY: Russian missile breaches Polish airspace  \u2022  "
           "EU & UK seal reset deal in Brussels  \u2022  "
           "COP31 drops fossil-fuel phase-out")
 
